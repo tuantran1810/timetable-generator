@@ -1,0 +1,2603 @@
+[
+    {
+        "id": "hdtn_1__1_1",
+        "name": "HĐTN 1",
+        "class_id": "class_1_1",
+        "subject_id": "hdtn_1",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_1"
+        ]
+    },
+    {
+        "id": "tnxh_1__1_1",
+        "name": "TNXH 1",
+        "class_id": "class_1_1",
+        "subject_id": "tnxh_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "tv_1__1_1",
+        "name": "Tiếng Việt 1",
+        "class_id": "class_1_1",
+        "subject_id": "tv_1",
+        "length": 2,
+        "classes_per_week": 12,
+        "possible_teachers": [
+            "teacher_1"
+        ]
+    },
+    {
+        "id": "mt_1__1_1",
+        "name": "Mĩ Thuật 1",
+        "class_id": "class_1_1",
+        "subject_id": "mt_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "t_1__1_1",
+        "name": "Toán 1",
+        "class_id": "class_1_1",
+        "subject_id": "t_1",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_1"
+        ]
+    },
+    {
+        "id": "an_1__1_1",
+        "name": "Âm Nhạc 1",
+        "class_id": "class_1_1",
+        "subject_id": "an_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_t_1__1_1",
+        "name": "Toán tăng 1",
+        "class_id": "class_1_1",
+        "subject_id": "adv_t_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_1"
+        ]
+    },
+    {
+        "id": "av_1__1_1",
+        "name": "Anh Văn 1",
+        "class_id": "class_1_1",
+        "subject_id": "av_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "td_1__1_1",
+        "name": "Thể Dục 1",
+        "class_id": "class_1_1",
+        "subject_id": "td_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "dd_1__1_1",
+        "name": "Đạo Đức 1",
+        "class_id": "class_1_1",
+        "subject_id": "dd_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_1__1_1",
+        "name": "Tiếng Việt tăng 1",
+        "class_id": "class_1_1",
+        "subject_id": "adv_tv_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_1"
+        ]
+    },
+    {
+        "id": "ds_1__1_1",
+        "name": "Đọc Sách 1",
+        "class_id": "class_1_1",
+        "subject_id": "ds_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_1__1_1",
+        "name": "Kĩ năng sống 1",
+        "class_id": "class_1_1",
+        "subject_id": "kns_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_mt_1__1_1",
+        "name": "Mĩ Thuật tăng 1",
+        "class_id": "class_1_1",
+        "subject_id": "adv_mt_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "hdtn_1__1_2",
+        "name": "HĐTN 1",
+        "class_id": "class_1_2",
+        "subject_id": "hdtn_1",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_2"
+        ]
+    },
+    {
+        "id": "tnxh_1__1_2",
+        "name": "TNXH 1",
+        "class_id": "class_1_2",
+        "subject_id": "tnxh_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "tv_1__1_2",
+        "name": "Tiếng Việt 1",
+        "class_id": "class_1_2",
+        "subject_id": "tv_1",
+        "length": 2,
+        "classes_per_week": 12,
+        "possible_teachers": [
+            "teacher_2"
+        ]
+    },
+    {
+        "id": "mt_1__1_2",
+        "name": "Mĩ Thuật 1",
+        "class_id": "class_1_2",
+        "subject_id": "mt_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "t_1__1_2",
+        "name": "Toán 1",
+        "class_id": "class_1_2",
+        "subject_id": "t_1",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_2"
+        ]
+    },
+    {
+        "id": "an_1__1_2",
+        "name": "Âm Nhạc 1",
+        "class_id": "class_1_2",
+        "subject_id": "an_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_t_1__1_2",
+        "name": "Toán tăng 1",
+        "class_id": "class_1_2",
+        "subject_id": "adv_t_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_2"
+        ]
+    },
+    {
+        "id": "av_1__1_2",
+        "name": "Anh Văn 1",
+        "class_id": "class_1_2",
+        "subject_id": "av_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "td_1__1_2",
+        "name": "Thể Dục 1",
+        "class_id": "class_1_2",
+        "subject_id": "td_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "dd_1__1_2",
+        "name": "Đạo Đức 1",
+        "class_id": "class_1_2",
+        "subject_id": "dd_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_1__1_2",
+        "name": "Tiếng Việt tăng 1",
+        "class_id": "class_1_2",
+        "subject_id": "adv_tv_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_2"
+        ]
+    },
+    {
+        "id": "ds_1__1_2",
+        "name": "Đọc Sách 1",
+        "class_id": "class_1_2",
+        "subject_id": "ds_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_1__1_2",
+        "name": "Kĩ năng sống 1",
+        "class_id": "class_1_2",
+        "subject_id": "kns_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_mt_1__1_2",
+        "name": "Mĩ Thuật tăng 1",
+        "class_id": "class_1_2",
+        "subject_id": "adv_mt_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "hdtn_1__1_3",
+        "name": "HĐTN 1",
+        "class_id": "class_1_3",
+        "subject_id": "hdtn_1",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_3"
+        ]
+    },
+    {
+        "id": "tnxh_1__1_3",
+        "name": "TNXH 1",
+        "class_id": "class_1_3",
+        "subject_id": "tnxh_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "tv_1__1_3",
+        "name": "Tiếng Việt 1",
+        "class_id": "class_1_3",
+        "subject_id": "tv_1",
+        "length": 2,
+        "classes_per_week": 12,
+        "possible_teachers": [
+            "teacher_3"
+        ]
+    },
+    {
+        "id": "mt_1__1_3",
+        "name": "Mĩ Thuật 1",
+        "class_id": "class_1_3",
+        "subject_id": "mt_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "t_1__1_3",
+        "name": "Toán 1",
+        "class_id": "class_1_3",
+        "subject_id": "t_1",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_3"
+        ]
+    },
+    {
+        "id": "an_1__1_3",
+        "name": "Âm Nhạc 1",
+        "class_id": "class_1_3",
+        "subject_id": "an_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_t_1__1_3",
+        "name": "Toán tăng 1",
+        "class_id": "class_1_3",
+        "subject_id": "adv_t_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_3"
+        ]
+    },
+    {
+        "id": "av_1__1_3",
+        "name": "Anh Văn 1",
+        "class_id": "class_1_3",
+        "subject_id": "av_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "td_1__1_3",
+        "name": "Thể Dục 1",
+        "class_id": "class_1_3",
+        "subject_id": "td_1",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "dd_1__1_3",
+        "name": "Đạo Đức 1",
+        "class_id": "class_1_3",
+        "subject_id": "dd_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_1__1_3",
+        "name": "Tiếng Việt tăng 1",
+        "class_id": "class_1_3",
+        "subject_id": "adv_tv_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_3"
+        ]
+    },
+    {
+        "id": "ds_1__1_3",
+        "name": "Đọc Sách 1",
+        "class_id": "class_1_3",
+        "subject_id": "ds_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_1__1_3",
+        "name": "Kĩ năng sống 1",
+        "class_id": "class_1_3",
+        "subject_id": "kns_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_mt_1__1_3",
+        "name": "Mĩ Thuật tăng 1",
+        "class_id": "class_1_3",
+        "subject_id": "adv_mt_1",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "hdtn_2__2_1",
+        "name": "HĐTN 2",
+        "class_id": "class_2_1",
+        "subject_id": "hdtn_2",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_4"
+        ]
+    },
+    {
+        "id": "td_2__2_1",
+        "name": "Thể Dục 2",
+        "class_id": "class_2_1",
+        "subject_id": "td_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_2__2_1",
+        "name": "Tiếng Việt 2",
+        "class_id": "class_2_1",
+        "subject_id": "tv_2",
+        "length": 2,
+        "classes_per_week": 10,
+        "possible_teachers": [
+            "teacher_4"
+        ]
+    },
+    {
+        "id": "t_2__2_1",
+        "name": "Toán 2",
+        "class_id": "class_2_1",
+        "subject_id": "t_2",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_4"
+        ]
+    },
+    {
+        "id": "av_2__2_1",
+        "name": "Anh Văn 2",
+        "class_id": "class_2_1",
+        "subject_id": "av_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_2__2_1",
+        "name": "Mĩ Thuật 2",
+        "class_id": "class_2_1",
+        "subject_id": "mt_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "tnxh_2__2_1",
+        "name": "TNXH 2",
+        "class_id": "class_2_1",
+        "subject_id": "tnxh_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "ds_2__2_1",
+        "name": "Đọc Sách 2",
+        "class_id": "class_2_1",
+        "subject_id": "ds_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_2__2_1",
+        "name": "Kĩ năng sống 2",
+        "class_id": "class_2_1",
+        "subject_id": "kns_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_mt_2__2_1",
+        "name": "Mĩ Thuật tăng 2",
+        "class_id": "class_2_1",
+        "subject_id": "adv_mt_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "dd_2__2_1",
+        "name": "Đạo Đức 2",
+        "class_id": "class_2_1",
+        "subject_id": "dd_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_2__2_1",
+        "name": "Tiếng Việt tăng 2",
+        "class_id": "class_2_1",
+        "subject_id": "adv_tv_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_4"
+        ]
+    },
+    {
+        "id": "adv_t_2__2_1",
+        "name": "Toán tăng 2",
+        "class_id": "class_2_1",
+        "subject_id": "adv_t_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_4"
+        ]
+    },
+    {
+        "id": "an_2__2_1",
+        "name": "Âm Nhạc 2",
+        "class_id": "class_2_1",
+        "subject_id": "an_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "hdtn_2__2_2",
+        "name": "HĐTN 2",
+        "class_id": "class_2_2",
+        "subject_id": "hdtn_2",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_5"
+        ]
+    },
+    {
+        "id": "td_2__2_2",
+        "name": "Thể Dục 2",
+        "class_id": "class_2_2",
+        "subject_id": "td_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_2__2_2",
+        "name": "Tiếng Việt 2",
+        "class_id": "class_2_2",
+        "subject_id": "tv_2",
+        "length": 2,
+        "classes_per_week": 10,
+        "possible_teachers": [
+            "teacher_5"
+        ]
+    },
+    {
+        "id": "t_2__2_2",
+        "name": "Toán 2",
+        "class_id": "class_2_2",
+        "subject_id": "t_2",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_5"
+        ]
+    },
+    {
+        "id": "av_2__2_2",
+        "name": "Anh Văn 2",
+        "class_id": "class_2_2",
+        "subject_id": "av_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_2__2_2",
+        "name": "Mĩ Thuật 2",
+        "class_id": "class_2_2",
+        "subject_id": "mt_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "tnxh_2__2_2",
+        "name": "TNXH 2",
+        "class_id": "class_2_2",
+        "subject_id": "tnxh_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "ds_2__2_2",
+        "name": "Đọc Sách 2",
+        "class_id": "class_2_2",
+        "subject_id": "ds_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_2__2_2",
+        "name": "Kĩ năng sống 2",
+        "class_id": "class_2_2",
+        "subject_id": "kns_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_mt_2__2_2",
+        "name": "Mĩ Thuật tăng 2",
+        "class_id": "class_2_2",
+        "subject_id": "adv_mt_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "dd_2__2_2",
+        "name": "Đạo Đức 2",
+        "class_id": "class_2_2",
+        "subject_id": "dd_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_2__2_2",
+        "name": "Tiếng Việt tăng 2",
+        "class_id": "class_2_2",
+        "subject_id": "adv_tv_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_5"
+        ]
+    },
+    {
+        "id": "adv_t_2__2_2",
+        "name": "Toán tăng 2",
+        "class_id": "class_2_2",
+        "subject_id": "adv_t_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_5"
+        ]
+    },
+    {
+        "id": "an_2__2_2",
+        "name": "Âm Nhạc 2",
+        "class_id": "class_2_2",
+        "subject_id": "an_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "hdtn_2__2_3",
+        "name": "HĐTN 2",
+        "class_id": "class_2_3",
+        "subject_id": "hdtn_2",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_6"
+        ]
+    },
+    {
+        "id": "td_2__2_3",
+        "name": "Thể Dục 2",
+        "class_id": "class_2_3",
+        "subject_id": "td_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_2__2_3",
+        "name": "Tiếng Việt 2",
+        "class_id": "class_2_3",
+        "subject_id": "tv_2",
+        "length": 2,
+        "classes_per_week": 10,
+        "possible_teachers": [
+            "teacher_6"
+        ]
+    },
+    {
+        "id": "t_2__2_3",
+        "name": "Toán 2",
+        "class_id": "class_2_3",
+        "subject_id": "t_2",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_6"
+        ]
+    },
+    {
+        "id": "av_2__2_3",
+        "name": "Anh Văn 2",
+        "class_id": "class_2_3",
+        "subject_id": "av_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_2__2_3",
+        "name": "Mĩ Thuật 2",
+        "class_id": "class_2_3",
+        "subject_id": "mt_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "tnxh_2__2_3",
+        "name": "TNXH 2",
+        "class_id": "class_2_3",
+        "subject_id": "tnxh_2",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "ds_2__2_3",
+        "name": "Đọc Sách 2",
+        "class_id": "class_2_3",
+        "subject_id": "ds_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_2__2_3",
+        "name": "Kĩ năng sống 2",
+        "class_id": "class_2_3",
+        "subject_id": "kns_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_mt_2__2_3",
+        "name": "Mĩ Thuật tăng 2",
+        "class_id": "class_2_3",
+        "subject_id": "adv_mt_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "dd_2__2_3",
+        "name": "Đạo Đức 2",
+        "class_id": "class_2_3",
+        "subject_id": "dd_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_2__2_3",
+        "name": "Tiếng Việt tăng 2",
+        "class_id": "class_2_3",
+        "subject_id": "adv_tv_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_6"
+        ]
+    },
+    {
+        "id": "adv_t_2__2_3",
+        "name": "Toán tăng 2",
+        "class_id": "class_2_3",
+        "subject_id": "adv_t_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_6"
+        ]
+    },
+    {
+        "id": "an_2__2_3",
+        "name": "Âm Nhạc 2",
+        "class_id": "class_2_3",
+        "subject_id": "an_2",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "hdtn_3__3_1",
+        "name": "HĐTN 3",
+        "class_id": "class_3_1",
+        "subject_id": "hdtn_3",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_7"
+        ]
+    },
+    {
+        "id": "td_3__3_1",
+        "name": "Thể Dục 3",
+        "class_id": "class_3_1",
+        "subject_id": "td_3",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_3__3_1",
+        "name": "Tiếng Việt 3",
+        "class_id": "class_3_1",
+        "subject_id": "tv_3",
+        "length": 2,
+        "classes_per_week": 7,
+        "possible_teachers": [
+            "teacher_7"
+        ]
+    },
+    {
+        "id": "t_3__3_1",
+        "name": "Toán 3",
+        "class_id": "class_3_1",
+        "subject_id": "t_3",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_7"
+        ]
+    },
+    {
+        "id": "av_3__3_1",
+        "name": "Anh Văn 3",
+        "class_id": "class_3_1",
+        "subject_id": "av_3",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_3__3_1",
+        "name": "Mĩ Thuật 3",
+        "class_id": "class_3_1",
+        "subject_id": "mt_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "tnxh_3__3_1",
+        "name": "TNXH 3",
+        "class_id": "class_3_1",
+        "subject_id": "tnxh_3",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "ds_3__3_1",
+        "name": "Đọc Sách 3",
+        "class_id": "class_3_1",
+        "subject_id": "ds_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_3__3_1",
+        "name": "Kĩ năng sống 3",
+        "class_id": "class_3_1",
+        "subject_id": "kns_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "dd_3__3_1",
+        "name": "Đạo Đức 3",
+        "class_id": "class_3_1",
+        "subject_id": "dd_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_3__3_1",
+        "name": "Tiếng Việt tăng 3",
+        "class_id": "class_3_1",
+        "subject_id": "adv_tv_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_7"
+        ]
+    },
+    {
+        "id": "adv_t_3__3_1",
+        "name": "Toán tăng 3",
+        "class_id": "class_3_1",
+        "subject_id": "adv_t_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_7"
+        ]
+    },
+    {
+        "id": "an_3__3_1",
+        "name": "Âm Nhạc 3",
+        "class_id": "class_3_1",
+        "subject_id": "an_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_3__3_1",
+        "name": "Tin Học 3",
+        "class_id": "class_3_1",
+        "subject_id": "th_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "cn_3__3_1",
+        "name": "Công Nghệ 3",
+        "class_id": "class_3_1",
+        "subject_id": "cn_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_7"
+        ]
+    },
+    {
+        "id": "hdtn_3__3_2",
+        "name": "HĐTN 3",
+        "class_id": "class_3_2",
+        "subject_id": "hdtn_3",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_8"
+        ]
+    },
+    {
+        "id": "td_3__3_2",
+        "name": "Thể Dục 3",
+        "class_id": "class_3_2",
+        "subject_id": "td_3",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_3__3_2",
+        "name": "Tiếng Việt 3",
+        "class_id": "class_3_2",
+        "subject_id": "tv_3",
+        "length": 2,
+        "classes_per_week": 7,
+        "possible_teachers": [
+            "teacher_8"
+        ]
+    },
+    {
+        "id": "t_3__3_2",
+        "name": "Toán 3",
+        "class_id": "class_3_2",
+        "subject_id": "t_3",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_8"
+        ]
+    },
+    {
+        "id": "av_3__3_2",
+        "name": "Anh Văn 3",
+        "class_id": "class_3_2",
+        "subject_id": "av_3",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_3__3_2",
+        "name": "Mĩ Thuật 3",
+        "class_id": "class_3_2",
+        "subject_id": "mt_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "tnxh_3__3_2",
+        "name": "TNXH 3",
+        "class_id": "class_3_2",
+        "subject_id": "tnxh_3",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "ds_3__3_2",
+        "name": "Đọc Sách 3",
+        "class_id": "class_3_2",
+        "subject_id": "ds_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_3__3_2",
+        "name": "Kĩ năng sống 3",
+        "class_id": "class_3_2",
+        "subject_id": "kns_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "dd_3__3_2",
+        "name": "Đạo Đức 3",
+        "class_id": "class_3_2",
+        "subject_id": "dd_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_3__3_2",
+        "name": "Tiếng Việt tăng 3",
+        "class_id": "class_3_2",
+        "subject_id": "adv_tv_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_8"
+        ]
+    },
+    {
+        "id": "adv_t_3__3_2",
+        "name": "Toán tăng 3",
+        "class_id": "class_3_2",
+        "subject_id": "adv_t_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_8"
+        ]
+    },
+    {
+        "id": "an_3__3_2",
+        "name": "Âm Nhạc 3",
+        "class_id": "class_3_2",
+        "subject_id": "an_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_3__3_2",
+        "name": "Tin Học 3",
+        "class_id": "class_3_2",
+        "subject_id": "th_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "cn_3__3_2",
+        "name": "Công Nghệ 3",
+        "class_id": "class_3_2",
+        "subject_id": "cn_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_8"
+        ]
+    },
+    {
+        "id": "hdtn_3__3_3",
+        "name": "HĐTN 3",
+        "class_id": "class_3_3",
+        "subject_id": "hdtn_3",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_9"
+        ]
+    },
+    {
+        "id": "td_3__3_3",
+        "name": "Thể Dục 3",
+        "class_id": "class_3_3",
+        "subject_id": "td_3",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_3__3_3",
+        "name": "Tiếng Việt 3",
+        "class_id": "class_3_3",
+        "subject_id": "tv_3",
+        "length": 2,
+        "classes_per_week": 7,
+        "possible_teachers": [
+            "teacher_9"
+        ]
+    },
+    {
+        "id": "t_3__3_3",
+        "name": "Toán 3",
+        "class_id": "class_3_3",
+        "subject_id": "t_3",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_9"
+        ]
+    },
+    {
+        "id": "av_3__3_3",
+        "name": "Anh Văn 3",
+        "class_id": "class_3_3",
+        "subject_id": "av_3",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_3__3_3",
+        "name": "Mĩ Thuật 3",
+        "class_id": "class_3_3",
+        "subject_id": "mt_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "tnxh_3__3_3",
+        "name": "TNXH 3",
+        "class_id": "class_3_3",
+        "subject_id": "tnxh_3",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_16",
+            "teacher_17"
+        ]
+    },
+    {
+        "id": "ds_3__3_3",
+        "name": "Đọc Sách 3",
+        "class_id": "class_3_3",
+        "subject_id": "ds_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kns_3__3_3",
+        "name": "Kĩ năng sống 3",
+        "class_id": "class_3_3",
+        "subject_id": "kns_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "dd_3__3_3",
+        "name": "Đạo Đức 3",
+        "class_id": "class_3_3",
+        "subject_id": "dd_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_3__3_3",
+        "name": "Tiếng Việt tăng 3",
+        "class_id": "class_3_3",
+        "subject_id": "adv_tv_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_9"
+        ]
+    },
+    {
+        "id": "adv_t_3__3_3",
+        "name": "Toán tăng 3",
+        "class_id": "class_3_3",
+        "subject_id": "adv_t_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_9"
+        ]
+    },
+    {
+        "id": "an_3__3_3",
+        "name": "Âm Nhạc 3",
+        "class_id": "class_3_3",
+        "subject_id": "an_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_3__3_3",
+        "name": "Tin Học 3",
+        "class_id": "class_3_3",
+        "subject_id": "th_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "cn_3__3_3",
+        "name": "Công Nghệ 3",
+        "class_id": "class_3_3",
+        "subject_id": "cn_3",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_9"
+        ]
+    },
+    {
+        "id": "hdtn_4__4_1",
+        "name": "HĐTN 4",
+        "class_id": "class_4_1",
+        "subject_id": "hdtn_4",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_10"
+        ]
+    },
+    {
+        "id": "td_4__4_1",
+        "name": "Thể Dục 4",
+        "class_id": "class_4_1",
+        "subject_id": "td_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_4__4_1",
+        "name": "Tiếng Việt 4",
+        "class_id": "class_4_1",
+        "subject_id": "tv_4",
+        "length": 2,
+        "classes_per_week": 7,
+        "possible_teachers": [
+            "teacher_10"
+        ]
+    },
+    {
+        "id": "t_4__4_1",
+        "name": "Toán 4",
+        "class_id": "class_4_1",
+        "subject_id": "t_4",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_10"
+        ]
+    },
+    {
+        "id": "av_4__4_1",
+        "name": "Anh Văn 4",
+        "class_id": "class_4_1",
+        "subject_id": "av_4",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_4__4_1",
+        "name": "Mĩ Thuật 4",
+        "class_id": "class_4_1",
+        "subject_id": "mt_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kh_4__4_1",
+        "name": "Khoa Học 4",
+        "class_id": "class_4_1",
+        "subject_id": "kh_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "dd_4__4_1",
+        "name": "Đạo Đức 4",
+        "class_id": "class_4_1",
+        "subject_id": "dd_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_4__4_1",
+        "name": "Tiếng Việt tăng 4",
+        "class_id": "class_4_1",
+        "subject_id": "adv_tv_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_10"
+        ]
+    },
+    {
+        "id": "adv_t_4__4_1",
+        "name": "Toán tăng 4",
+        "class_id": "class_4_1",
+        "subject_id": "adv_t_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_10"
+        ]
+    },
+    {
+        "id": "an_4__4_1",
+        "name": "Âm Nhạc 4",
+        "class_id": "class_4_1",
+        "subject_id": "an_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_4__4_1",
+        "name": "Tin Học 4",
+        "class_id": "class_4_1",
+        "subject_id": "th_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "cn_4__4_1",
+        "name": "Công Nghệ 4",
+        "class_id": "class_4_1",
+        "subject_id": "cn_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_10"
+        ]
+    },
+    {
+        "id": "lsdl_4__4_1",
+        "name": "Lịch Sử Địa Lí 4",
+        "class_id": "class_4_1",
+        "subject_id": "lsdl_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "hdtn_4__4_2",
+        "name": "HĐTN 4",
+        "class_id": "class_4_2",
+        "subject_id": "hdtn_4",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_11"
+        ]
+    },
+    {
+        "id": "td_4__4_2",
+        "name": "Thể Dục 4",
+        "class_id": "class_4_2",
+        "subject_id": "td_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_4__4_2",
+        "name": "Tiếng Việt 4",
+        "class_id": "class_4_2",
+        "subject_id": "tv_4",
+        "length": 2,
+        "classes_per_week": 7,
+        "possible_teachers": [
+            "teacher_11"
+        ]
+    },
+    {
+        "id": "t_4__4_2",
+        "name": "Toán 4",
+        "class_id": "class_4_2",
+        "subject_id": "t_4",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_11"
+        ]
+    },
+    {
+        "id": "av_4__4_2",
+        "name": "Anh Văn 4",
+        "class_id": "class_4_2",
+        "subject_id": "av_4",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_4__4_2",
+        "name": "Mĩ Thuật 4",
+        "class_id": "class_4_2",
+        "subject_id": "mt_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kh_4__4_2",
+        "name": "Khoa Học 4",
+        "class_id": "class_4_2",
+        "subject_id": "kh_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "dd_4__4_2",
+        "name": "Đạo Đức 4",
+        "class_id": "class_4_2",
+        "subject_id": "dd_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_4__4_2",
+        "name": "Tiếng Việt tăng 4",
+        "class_id": "class_4_2",
+        "subject_id": "adv_tv_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_11"
+        ]
+    },
+    {
+        "id": "adv_t_4__4_2",
+        "name": "Toán tăng 4",
+        "class_id": "class_4_2",
+        "subject_id": "adv_t_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_11"
+        ]
+    },
+    {
+        "id": "an_4__4_2",
+        "name": "Âm Nhạc 4",
+        "class_id": "class_4_2",
+        "subject_id": "an_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_4__4_2",
+        "name": "Tin Học 4",
+        "class_id": "class_4_2",
+        "subject_id": "th_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "cn_4__4_2",
+        "name": "Công Nghệ 4",
+        "class_id": "class_4_2",
+        "subject_id": "cn_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_11"
+        ]
+    },
+    {
+        "id": "lsdl_4__4_2",
+        "name": "Lịch Sử Địa Lí 4",
+        "class_id": "class_4_2",
+        "subject_id": "lsdl_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "hdtn_4__4_3",
+        "name": "HĐTN 4",
+        "class_id": "class_4_3",
+        "subject_id": "hdtn_4",
+        "length": 1,
+        "classes_per_week": 3,
+        "possible_teachers": [
+            "teacher_12"
+        ]
+    },
+    {
+        "id": "td_4__4_3",
+        "name": "Thể Dục 4",
+        "class_id": "class_4_3",
+        "subject_id": "td_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_4__4_3",
+        "name": "Tiếng Việt 4",
+        "class_id": "class_4_3",
+        "subject_id": "tv_4",
+        "length": 2,
+        "classes_per_week": 7,
+        "possible_teachers": [
+            "teacher_12"
+        ]
+    },
+    {
+        "id": "t_4__4_3",
+        "name": "Toán 4",
+        "class_id": "class_4_3",
+        "subject_id": "t_4",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_12"
+        ]
+    },
+    {
+        "id": "av_4__4_3",
+        "name": "Anh Văn 4",
+        "class_id": "class_4_3",
+        "subject_id": "av_4",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_4__4_3",
+        "name": "Mĩ Thuật 4",
+        "class_id": "class_4_3",
+        "subject_id": "mt_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kh_4__4_3",
+        "name": "Khoa Học 4",
+        "class_id": "class_4_3",
+        "subject_id": "kh_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "dd_4__4_3",
+        "name": "Đạo Đức 4",
+        "class_id": "class_4_3",
+        "subject_id": "dd_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_4__4_3",
+        "name": "Tiếng Việt tăng 4",
+        "class_id": "class_4_3",
+        "subject_id": "adv_tv_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_12"
+        ]
+    },
+    {
+        "id": "adv_t_4__4_3",
+        "name": "Toán tăng 4",
+        "class_id": "class_4_3",
+        "subject_id": "adv_t_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_12"
+        ]
+    },
+    {
+        "id": "an_4__4_3",
+        "name": "Âm Nhạc 4",
+        "class_id": "class_4_3",
+        "subject_id": "an_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_4__4_3",
+        "name": "Tin Học 4",
+        "class_id": "class_4_3",
+        "subject_id": "th_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "cn_4__4_3",
+        "name": "Công Nghệ 4",
+        "class_id": "class_4_3",
+        "subject_id": "cn_4",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_12"
+        ]
+    },
+    {
+        "id": "lsdl_4__4_3",
+        "name": "Lịch Sử Địa Lí 4",
+        "class_id": "class_4_3",
+        "subject_id": "lsdl_4",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "cc_5__5_1",
+        "name": "Chào cờ",
+        "class_id": "class_5_1",
+        "subject_id": "cc_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_13"
+        ]
+    },
+    {
+        "id": "td_5__5_1",
+        "name": "Thể Dục 5",
+        "class_id": "class_5_1",
+        "subject_id": "td_5",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_5__5_1",
+        "name": "Tiếng Việt 5",
+        "class_id": "class_5_1",
+        "subject_id": "tv_5",
+        "length": 2,
+        "classes_per_week": 8,
+        "possible_teachers": [
+            "teacher_13"
+        ]
+    },
+    {
+        "id": "t_5__5_1",
+        "name": "Toán 5",
+        "class_id": "class_5_1",
+        "subject_id": "t_5",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_13"
+        ]
+    },
+    {
+        "id": "av_5__5_1",
+        "name": "Anh Văn 5",
+        "class_id": "class_5_1",
+        "subject_id": "av_5",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_5__5_1",
+        "name": "Mĩ Thuật 5",
+        "class_id": "class_5_1",
+        "subject_id": "mt_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kh_5__5_1",
+        "name": "Khoa Học 5",
+        "class_id": "class_5_1",
+        "subject_id": "kh_5",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "dd_5__5_1",
+        "name": "Đạo Đức 5",
+        "class_id": "class_5_1",
+        "subject_id": "dd_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_5__5_1",
+        "name": "Tiếng Việt tăng 5",
+        "class_id": "class_5_1",
+        "subject_id": "adv_tv_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_13"
+        ]
+    },
+    {
+        "id": "adv_t_5__5_1",
+        "name": "Toán tăng 5",
+        "class_id": "class_5_1",
+        "subject_id": "adv_t_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_13"
+        ]
+    },
+    {
+        "id": "an_5__5_1",
+        "name": "Âm Nhạc 5",
+        "class_id": "class_5_1",
+        "subject_id": "an_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_5__5_1",
+        "name": "Tin Học 5",
+        "class_id": "class_5_1",
+        "subject_id": "th_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "kt_5__5_1",
+        "name": "Kĩ Thuật 5",
+        "class_id": "class_5_1",
+        "subject_id": "kt_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_13"
+        ]
+    },
+    {
+        "id": "dl_5__5_1",
+        "name": "Địa Lí 5",
+        "class_id": "class_5_1",
+        "subject_id": "dl_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "ls_5__5_1",
+        "name": "Lịch Sử 5",
+        "class_id": "class_5_1",
+        "subject_id": "ls_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "shl_5__5_1",
+        "name": "Sinh Hoạt Lớp 5",
+        "class_id": "class_5_1",
+        "subject_id": "shl_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_13"
+        ]
+    },
+    {
+        "id": "cc_5__5_2",
+        "name": "Chào cờ",
+        "class_id": "class_5_2",
+        "subject_id": "cc_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_14"
+        ]
+    },
+    {
+        "id": "td_5__5_2",
+        "name": "Thể Dục 5",
+        "class_id": "class_5_2",
+        "subject_id": "td_5",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_5__5_2",
+        "name": "Tiếng Việt 5",
+        "class_id": "class_5_2",
+        "subject_id": "tv_5",
+        "length": 2,
+        "classes_per_week": 8,
+        "possible_teachers": [
+            "teacher_14"
+        ]
+    },
+    {
+        "id": "t_5__5_2",
+        "name": "Toán 5",
+        "class_id": "class_5_2",
+        "subject_id": "t_5",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_14"
+        ]
+    },
+    {
+        "id": "av_5__5_2",
+        "name": "Anh Văn 5",
+        "class_id": "class_5_2",
+        "subject_id": "av_5",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_5__5_2",
+        "name": "Mĩ Thuật 5",
+        "class_id": "class_5_2",
+        "subject_id": "mt_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kh_5__5_2",
+        "name": "Khoa Học 5",
+        "class_id": "class_5_2",
+        "subject_id": "kh_5",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "dd_5__5_2",
+        "name": "Đạo Đức 5",
+        "class_id": "class_5_2",
+        "subject_id": "dd_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_5__5_2",
+        "name": "Tiếng Việt tăng 5",
+        "class_id": "class_5_2",
+        "subject_id": "adv_tv_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_14"
+        ]
+    },
+    {
+        "id": "adv_t_5__5_2",
+        "name": "Toán tăng 5",
+        "class_id": "class_5_2",
+        "subject_id": "adv_t_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_14"
+        ]
+    },
+    {
+        "id": "an_5__5_2",
+        "name": "Âm Nhạc 5",
+        "class_id": "class_5_2",
+        "subject_id": "an_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_5__5_2",
+        "name": "Tin Học 5",
+        "class_id": "class_5_2",
+        "subject_id": "th_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "kt_5__5_2",
+        "name": "Kĩ Thuật 5",
+        "class_id": "class_5_2",
+        "subject_id": "kt_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_14"
+        ]
+    },
+    {
+        "id": "dl_5__5_2",
+        "name": "Địa Lí 5",
+        "class_id": "class_5_2",
+        "subject_id": "dl_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "ls_5__5_2",
+        "name": "Lịch Sử 5",
+        "class_id": "class_5_2",
+        "subject_id": "ls_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "shl_5__5_2",
+        "name": "Sinh Hoạt Lớp 5",
+        "class_id": "class_5_2",
+        "subject_id": "shl_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_14"
+        ]
+    },
+    {
+        "id": "cc_5__5_3",
+        "name": "Chào cờ",
+        "class_id": "class_5_3",
+        "subject_id": "cc_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_15"
+        ]
+    },
+    {
+        "id": "td_5__5_3",
+        "name": "Thể Dục 5",
+        "class_id": "class_5_3",
+        "subject_id": "td_5",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_24",
+            "teacher_25"
+        ]
+    },
+    {
+        "id": "tv_5__5_3",
+        "name": "Tiếng Việt 5",
+        "class_id": "class_5_3",
+        "subject_id": "tv_5",
+        "length": 2,
+        "classes_per_week": 8,
+        "possible_teachers": [
+            "teacher_15"
+        ]
+    },
+    {
+        "id": "t_5__5_3",
+        "name": "Toán 5",
+        "class_id": "class_5_3",
+        "subject_id": "t_5",
+        "length": 1,
+        "classes_per_week": 5,
+        "possible_teachers": [
+            "teacher_15"
+        ]
+    },
+    {
+        "id": "av_5__5_3",
+        "name": "Anh Văn 5",
+        "class_id": "class_5_3",
+        "subject_id": "av_5",
+        "length": 1,
+        "classes_per_week": 4,
+        "possible_teachers": [
+            "teacher_26",
+            "teacher_27"
+        ]
+    },
+    {
+        "id": "mt_5__5_3",
+        "name": "Mĩ Thuật 5",
+        "class_id": "class_5_3",
+        "subject_id": "mt_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "kh_5__5_3",
+        "name": "Khoa Học 5",
+        "class_id": "class_5_3",
+        "subject_id": "kh_5",
+        "length": 1,
+        "classes_per_week": 2,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "dd_5__5_3",
+        "name": "Đạo Đức 5",
+        "class_id": "class_5_3",
+        "subject_id": "dd_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "adv_tv_5__5_3",
+        "name": "Tiếng Việt tăng 5",
+        "class_id": "class_5_3",
+        "subject_id": "adv_tv_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_15"
+        ]
+    },
+    {
+        "id": "adv_t_5__5_3",
+        "name": "Toán tăng 5",
+        "class_id": "class_5_3",
+        "subject_id": "adv_t_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_15"
+        ]
+    },
+    {
+        "id": "an_5__5_3",
+        "name": "Âm Nhạc 5",
+        "class_id": "class_5_3",
+        "subject_id": "an_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_21",
+            "teacher_22",
+            "teacher_23"
+        ]
+    },
+    {
+        "id": "th_5__5_3",
+        "name": "Tin Học 5",
+        "class_id": "class_5_3",
+        "subject_id": "th_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_20"
+        ]
+    },
+    {
+        "id": "kt_5__5_3",
+        "name": "Kĩ Thuật 5",
+        "class_id": "class_5_3",
+        "subject_id": "kt_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_15"
+        ]
+    },
+    {
+        "id": "dl_5__5_3",
+        "name": "Địa Lí 5",
+        "class_id": "class_5_3",
+        "subject_id": "dl_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "ls_5__5_3",
+        "name": "Lịch Sử 5",
+        "class_id": "class_5_3",
+        "subject_id": "ls_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_18",
+            "teacher_19"
+        ]
+    },
+    {
+        "id": "shl_5__5_3",
+        "name": "Sinh Hoạt Lớp 5",
+        "class_id": "class_5_3",
+        "subject_id": "shl_5",
+        "length": 1,
+        "classes_per_week": 1,
+        "possible_teachers": [
+            "teacher_15"
+        ]
+    }
+]

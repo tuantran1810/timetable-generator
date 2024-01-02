@@ -1,0 +1,183 @@
+[
+    {
+        "id": "teacher_1",
+        "name": "host 1",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_2",
+        "name": "host 2",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_3",
+        "name": "host 3",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_4",
+        "name": "host 4",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_5",
+        "name": "host 5",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_6",
+        "name": "host 6",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_7",
+        "name": "host 7",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_8",
+        "name": "host 8",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_9",
+        "name": "host 9",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_10",
+        "name": "host 10",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_11",
+        "name": "host 11",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_12",
+        "name": "host 12",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_13",
+        "name": "host 13",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_14",
+        "name": "host 14",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_15",
+        "name": "host 15",
+        "permanent": true,
+        "lesson_per_week_limit": 32
+    },
+    {
+        "id": "teacher_16",
+        "name": "teacher tnxh 1,2,3 1",
+        "subjects": ["tnxh_1", "tnxh_2", "tnxh_3"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_17",
+        "name": "teacher tnxh 1,2,3 2",
+        "subjects": ["tnxh_1", "tnxh_2", "tnxh_3"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_18",
+        "name": "teacher khlsdl 4,5 1",
+        "subjects": ["kh_4", "lsdl_4", "kh_5", "dl_5", "ls_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_19",
+        "name": "teacher khlsdl 4,5 2",
+        "subjects": ["kh_4", "lsdl_4", "kh_5", "dl_5", "ls_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_20",
+        "name": "teacher th 1",
+        "subjects": ["th_3", "th_4", "th_5", "kh_4", "kh_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_21",
+        "name": "teacher an,mt,ds 1",
+        "subjects": ["mt_1", "mt_2", "mt_3", "mt_4", "mt_5", "adv_mt_1", "adv_mt_2", "ds_1", "ds_2", "ds_3", "ds_4", "ds_5", "dd_1", "dd_2", "dd_3", "dd_4", "dd_5", "kns_1", "kns_2", "kns_3", "kns_4"],
+        "permanent": false,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_22",
+        "name": "teacher an,mt,ds 2",
+        "subjects": ["mt_1", "mt_2", "mt_3", "mt_4", "mt_5", "adv_mt_1", "adv_mt_2", "ds_1", "ds_2", "ds_3", "ds_4", "ds_5", "dd_1", "dd_2", "dd_3", "dd_4", "dd_5", "kns_1", "kns_2", "kns_3", "kns_4"],
+        "permanent": false,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_23",
+        "name": "teacher an,mt,ds 3",
+        "subjects": ["mt_1", "mt_2", "mt_3", "mt_4", "mt_5", "adv_mt_1", "adv_mt_2", "ds_1", "ds_2", "ds_3", "ds_4", "ds_5", "dd_1", "dd_2", "dd_3", "dd_4", "dd_5", "kns_1", "kns_2", "kns_3", "kns_4"],
+        "permanent": false,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_24",
+        "name": "teacher td 1",
+        "subjects": ["td_1", "td_2", "td_3", "td_4", "td_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_25",
+        "name": "teacher td 2",
+        "subjects": ["td_1", "td_2", "td_3", "td_4", "td_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_26",
+        "name": "teacher av 1",
+        "subjects": ["av_1", "av_2", "av_3", "av_4", "av_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_27",
+        "name": "teacher av 2",
+        "subjects": ["av_1", "av_2", "av_3", "av_4", "av_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    },
+    {
+        "id": "teacher_28",
+        "name": "teacher an 1",
+        "subjects": ["an_1", "an_2", "an_3", "an_4", "an_5"],
+        "permanent": true,
+        "lesson_per_week_limit": 24
+    }
+]

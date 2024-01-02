@@ -1,0 +1,74 @@
+[
+    {
+        "id": "room_1_1",
+        "name": "room 1_1"
+    },
+    {
+        "id": "room_1_2",
+        "name": "room 1_2"
+    },
+    {
+        "id": "room_1_3",
+        "name": "room 1_3"
+    },
+    {
+        "id": "room_2_1",
+        "name": "room 2_1"
+    },
+    {
+        "id": "room_2_2",
+        "name": "room 2_2"
+    },
+    {
+        "id": "room_2_3",
+        "name": "room 2_3"
+    },
+    {
+        "id": "room_3_1",
+        "name": "room 3_1"
+    },
+    {
+        "id": "room_3_2",
+        "name": "room 3_2"
+    },
+    {
+        "id": "room_3_3",
+        "name": "room 3_3"
+    },
+    {
+        "id": "room_4_1",
+        "name": "room 4_1"
+    },
+    {
+        "id": "room_4_2",
+        "name": "room 4_2"
+    },
+    {
+        "id": "room_4_3",
+        "name": "room 4_3"
+    },
+    {
+        "id": "room_5_1",
+        "name": "room 5_1"
+    },
+    {
+        "id": "room_5_2",
+        "name": "room 5_2"
+    },
+    {
+        "id": "room_5_3",
+        "name": "room 5_3"
+    },
+    {
+        "id": "gymnastic_1",
+        "name": "gymnastic 1"
+    },
+    {
+        "id": "gymnastic_2",
+        "name": "gymnastic 2"
+    },
+    {
+        "id": "computer_1",
+        "name": "computer 1"
+    }
+]
