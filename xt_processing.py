@@ -38,6 +38,18 @@ def parse_classes(
     classes = xt_types.XTAllClasses(lst)
     return classes
 
+def parse_subjects(filepath: str) -> xt_types.XTAllSubjects:
+    data = fetch_json(filepath)
+    lst = list()
+    for g in data:
+        grade = g['grade']
+        n_classes = g['n_classes']
+        for s in g['subjects']:
+            cl = xt_types.subject_from_json(grade, n_classes, s)
+            lst.append(cl)
+    classes = xt_types.XTAllSubjects(lst)
+    return classes
+
 # def process_teacher_class_assigment(
 #     j_grades: list,
 # ) -> dict:
@@ -66,8 +78,6 @@ if __name__ == '__main__':
     all_teachers = parse_teachers(teachers_filepath)
     all_classrooms = parse_classrooms(classrooms_filepath)
     all_classes = parse_classes(classes_filepath, all_teachers, all_classrooms)
+    all_subjects = parse_subjects(subjects_filepath)
 
-    # lesson_count = process_teacher_class_assigment(j_grades)
-    print(all_teachers)
-    print(all_classrooms)
-    print(all_classes)
+    print(all_subjects)

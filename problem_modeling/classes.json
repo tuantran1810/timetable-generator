@@ -1,76 +1,91 @@
 [
     {
         "id": "class_1_1",
+        "grade": 1,
         "homeroom_teacher_id": "teacher_1",
         "classroom_id": "room_1_1"
     },
     {
         "id": "class_1_2",
+        "grade": 1,
         "homeroom_teacher_id": "teacher_2",
         "classroom_id": "room_1_2"
     },
     {
         "id": "class_1_3",
+        "grade": 1,
         "homeroom_teacher_id": "teacher_3",
         "classroom_id": "room_1_3"
     },
     {
         "id": "class_2_1",
+        "grade": 2,
         "homeroom_teacher_id": "teacher_4",
         "classroom_id": "room_2_1"
     },
     {
         "id": "class_2_2",
+        "grade": 2,
         "homeroom_teacher_id": "teacher_5",
         "classroom_id": "room_2_2"
     },
     {
         "id": "class_2_3",
+        "grade": 2,
         "homeroom_teacher_id": "teacher_6",
         "classroom_id": "room_2_3"
     },
     {
         "id": "class_3_1",
+        "grade": 3,
         "homeroom_teacher_id": "teacher_7",
         "classroom_id": "room_3_1"
     },
     {
         "id": "class_3_2",
+        "grade": 3,
         "homeroom_teacher_id": "teacher_8",
         "classroom_id": "room_3_2"
     },
     {
         "id": "class_3_3",
+        "grade": 3,
         "homeroom_teacher_id": "teacher_9",
         "classroom_id": "room_3_3"
     },
     {
         "id": "class_4_1",
+        "grade": 4,
         "homeroom_teacher_id": "teacher_10",
         "classroom_id": "room_4_1"
     },
     {
         "id": "class_4_2",
+        "grade": 4,
         "homeroom_teacher_id": "teacher_11",
         "classroom_id": "room_4_2"
     },
     {
         "id": "class_4_3",
+        "grade": 4,
         "homeroom_teacher_id": "teacher_12",
         "classroom_id": "room_4_3"
     },
     {
         "id": "class_5_1",
+        "grade": 5,
         "homeroom_teacher_id": "teacher_13",
         "classroom_id": "room_5_1"
     },
     {
         "id": "class_5_2",
+        "grade": 5,
         "homeroom_teacher_id": "teacher_14",
         "classroom_id": "room_5_2"
     },
     {
         "id": "class_5_3",
+        "grade": 5,
         "homeroom_teacher_id": "teacher_15",
         "classroom_id": "room_5_3"
     }
